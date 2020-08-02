@@ -108,10 +108,21 @@
         width: 100%;
         padding: 10px;
         color: #fff;
-        background: #f53737;
         font-size: 1.8em;
         font-weight: 900;
         line-height: 125%;
+    }
+
+    #wrap .item .red {
+        background: #f53737;
+    }
+
+    #wrap .item .blue {
+        background: #3b78e2;
+    }
+
+    #wrap .item .green {
+        background: #22a926;
     }
 
     #wrap .item .head-sect-two {
@@ -124,7 +135,6 @@
         width: 100%;
         padding: 10px;
         color: #fff;
-        background: #22a926;
         font-size: 1.8em;
         font-weight: 900;
         line-height: 125%;
